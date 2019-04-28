@@ -1,10 +1,12 @@
 ### A simple invoices management system
 
+##### Demo: https://donnzh.github.io/invoiceme/
+
 bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Feature:
 
-- CRUD invoices base on backend-api
+- CRUD invoices base on [backend-api](https://github.com/Donnzh/invoiceme-api)
 - Pagination
 - Sort the invoices based on table column metadata
 - Filter invoices based on comments
@@ -19,7 +21,8 @@ Getting Start:
 
 In the project directory:
 
-### `yarn & yarn start`
+##### `yarn`
+##### `yarn start`
 
 This will install npm packages & runs the app in the development mode.
 
