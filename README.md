@@ -21,8 +21,10 @@ Getting Start:
 
 In the project directory:
 
-##### `yarn`
-##### `yarn start`
+```
+yarn
+yarn start
+```
 
 This will install npm packages & runs the app in the development mode.
 
