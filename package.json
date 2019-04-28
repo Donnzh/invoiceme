@@ -6,6 +6,7 @@
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
     "date-fns": "^1.30.1",
+    "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-content-loader": "^4.2.1",
@@ -15,9 +16,10 @@
   },
   "scripts": {
     "start": "cross-env NODE_PATH=src react-scripts start",
-    "build": "react-scripts build",
+    "build": "cross-env NODE_PATH=src react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
@@ -25,6 +27,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
+  "homepage": "https://Donnzh.github.io/invoiceme",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "eslint-config-prettier": "^4.1.0",
