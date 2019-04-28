@@ -1,0 +1,11 @@
+{
+  "main.js": "/invoiceme/static/js/main.261d5c4c.chunk.js",
+  "main.js.map": "/invoiceme/static/js/main.261d5c4c.chunk.js.map",
+  "runtime~main.js": "/invoiceme/static/js/runtime~main.91b20e75.js",
+  "runtime~main.js.map": "/invoiceme/static/js/runtime~main.91b20e75.js.map",
+  "static/js/2.35279fb3.chunk.js": "/invoiceme/static/js/2.35279fb3.chunk.js",
+  "static/js/2.35279fb3.chunk.js.map": "/invoiceme/static/js/2.35279fb3.chunk.js.map",
+  "index.html": "/invoiceme/index.html",
+  "precache-manifest.cfaf58993b91970ba9d118578c7b271d.js": "/invoiceme/precache-manifest.cfaf58993b91970ba9d118578c7b271d.js",
+  "service-worker.js": "/invoiceme/service-worker.js"
+}
